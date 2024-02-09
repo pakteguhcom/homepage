@@ -1,0 +1,36 @@
+#HTML Tags
+meta
+link
+div
+a
+br
+button
+p
+img
+h3
+h4
+h6
+header
+main
+footer
+i
+section
+
+#CSS Property
+font-family
+margin
+font-size
+font-weight
+color
+text-align
+padding
+position
+width
+height
+text-decoration
+max-width
+margin-top
+border-radius
+
+#Description of how you chose to use JavaScript and Bootstrap.
+I use Javascript to say Welcome tu user who visit my site, and i use bootstrap to make best visualization of my site so my site appear very nice(Eye-catching), smooth and responsive.
